@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/maps"
+        android:icon="@drawable/ic_location"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/maps" />
+
+    <item
+        android:id="@+id/bahasa"
+        android:icon="@drawable/ic_bahasa"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/language" />
+
+    <item
+        android:id="@+id/sign_out"
+        android:icon="@drawable/ic_signout"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/sign_out" />
+</menu>

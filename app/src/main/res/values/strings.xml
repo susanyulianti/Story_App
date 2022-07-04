@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStories</string>
+
+    <string name="story">Our Stories</string>
+    <string name="welcome">Welcome ! Enjoy the story feature to share your experiences</string>
+    <string name="login">Please complete the following form to access the application</string>
+    <string name="register">Please complete the following form to register your account</string>
+    <string name="account">Dont have an account yet?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="start">Lets start !</string>
+
+    <string name="email_account">Enter your Email</string>
+    <string name="password_account">Enter Password</string>
+    <string name="name_account">Enter your Full Name</string>
+    <string name="empty">Field Cannot Be Empty</string>
+    <string name="invalid">Invalid E-Mail</string>
+
+    <string name="your_page">Your Page</string>
+    <string name="located">Story Located</string>
+    <string name="upload_story">Upload Your Story</string>
+    <string name="name">User Name</string>
+    <string name="created">Post Date</string>
+    <string name="lat">Latitude</string>
+    <string name="lon">Longitude</string>
+    <string name="description">Caption</string>
+
+    <string name="success_signin">Yeay! You Successfully Login</string>
+    <string name="failed_signin">E-Mail and Password are not match</string>
+    <string name="success_signup">Yeay! Your Account Has Been Registered</string>
+    <string name="failed_signup">Sorry, the data you entered is invalid</string>
+    <string name="fill_form">Complete This Form</string>
+    <string name="create">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="setting">App Settings</string>
+    <string name="maps">Story Location</string>
+    <string name="add_loc">Set your location</string>
+
+
+    <string name="cam">Camera</string>
+    <string name="image">Gallery</string>
+    <string name="post">Post Story</string>
+
+    <string name="account_setting">SETTING</string>
+    <string name="profile">Account</string>
+    <string name="language">Languages</string>
+    <string name="signOut">Sign Out</string>
+
+    <string name="theme">Change Theme</string>
+    <string name="reminder">Notification</string>
+
+    <string name="failed_picture">Failed to capture image</string>
+    <string name="failed_cam">Failed to open camera</string>
+    <string name="no_permission">No Permission</string>
+    <string name="success_post">Upload Story Successful</string>
+    <string name="failed_retro">Bad Response</string>
+    <string name="add_image">Input your picture</string>
+    <string name="add_desc">Input Description</string>
+    <string name="todo">just</string>
+    <string name="title_activity_maps_stories">MapsStoriesActivity</string>
+    <string name="story_by">Story created by</string>
+
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="terrain">Terrain</string>
+    <string name="satellite">Satellite</string>
+
+    <string name="data_error">404 Error</string>
+    <string name="restart">Ulang</string>
+</resources>

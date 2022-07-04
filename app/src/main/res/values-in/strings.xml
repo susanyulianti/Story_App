@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStories</string>
+
+    <string name="story">Our Stories</string>
+    <string name="welcome">Selamat Datang ! Nikmati fitur story untuk membagikan pengalaman kalian</string>
+    <string name="login">Silahkan lengkapi form berikut untuk dapat mengakses aplikasi</string>
+    <string name="register">Silahkan lengkapi form berikut untuk mendaftarkan akun anda</string>
+    <string name="account">Belum punya akun?</string>
+    <string name="sign_in">Masuk</string>
+    <string name="sign_up">Daftar Akun</string>
+    <string name="start">Ayo Mulai !</string>
+
+    <string name="email_account">Masukkan Email Anda</string>
+    <string name="password_account">Masukkan Password</string>
+    <string name="name_account">Masukkan Nama Lengkap Anda</string>
+    <string name="empty">Field Tidak Boleh Kosong</string>
+    <string name="invalid">E-Mail Tidak Valid</string>
+
+    <string name="your_page">Halaman Untukmu</string>
+    <string name="upload_story">Posting Cerita Kamu</string>
+    <string name="located">Lokasi Cerita</string>
+    <string name="name">Nama Pengguna</string>
+    <string name="created">Tanggal Posting</string>
+    <string name="lat">Latitude</string>
+    <string name="lon">Longitude</string>
+    <string name="description">Deskripsi Cerita</string>
+
+    <string name="success_signin">Selamat! Anda Berhasil Masuk</string>
+    <string name="failed_signin">E-Mail dan Password tidak sesuai</string>
+    <string name="success_signup">Selamat! Akun Anda Telah Terdaftar</string>
+    <string name="failed_signup">Maaf, Data Yang Anda Masukkan Tidak Valid</string>
+    <string name="fill_form">Lengkapi Formulir Berikut</string>
+    <string name="create">Daftar</string>
+    <string name="sign_out">Keluar</string>
+    <string name="setting">Pengaturan Aplikasi</string>
+    <string name="maps">Lokasi Story</string>
+    <string name="add_loc">Masukkan Lokasi</string>
+
+
+    <string name="cam">Kamera</string>
+    <string name="image">Album</string>
+    <string name="post">Posting Cerita</string>
+
+    <string name="account_setting">PENGATURAN</string>
+    <string name="profile">Akun</string>
+    <string name="language">Bahasa</string>
+    <string name="signOut">Keluar</string>
+
+    <string name="theme">Ganti Tema</string>
+    <string name="reminder">Notifikasi</string>
+
+    <string name="failed_picture">Gagal menangkap gambar</string>
+    <string name="failed_cam">Gagal membuka kamera</string>
+    <string name="no_permission">Tidak ada Izin</string>
+    <string name="success_post">Upload Story Berhasil</string>
+    <string name="failed_retro">Respon Gagal</string>
+    <string name="add_image">Masukan gambar anda</string>
+    <string name="add_desc">Masukan Deskripsi Cerita</string>
+    <string name="todo">hanya</string>
+
+    <string name="title_activity_maps_stories">MapsStoriesActivity</string>
+    <string name="story_by">Story di posting oleh</string>
+
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="terrain">Terrain</string>
+    <string name="satellite">Satellite</string>
+
+    <string name="data_error">404 Error</string>
+    <string name="restart">Restart</string>
+</resources>
